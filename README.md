@@ -46,7 +46,7 @@ Software Engineer with a Bachelor of Science from Metropolia University
 
 I specialize in Web- and Java Development
 
-I also studied Machine and Deep Learning abroad at Tokyo National College of Technology.
+Studied Machine and Deep Learning abroad at Tokyo National College of Technology.
 
 Examples of my work can be found here:
 
