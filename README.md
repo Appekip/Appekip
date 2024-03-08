@@ -58,20 +58,28 @@ Examples of my work can be found here:
 
 Web applications:
 
-Smart Mirror
+Smart Mirror (React, TS)
 https://github.com/Appekip/Smart-Mirror
 
-Valorant Wiki
+Valorant Wiki (React, JS)
 https://github.com/Appekip/ValorantWikiReact
+
+Deliver Fee calc (React, TS)
+https://github.com/Appekip/Delivery-Fee-Calc
 
 Java: 
 
 Device Patrol
 https://github.com/Appekip/Device_Patrol
 
+Customer service Simulator
+https://github.com/Appekip/simulator
+
 Machine Learning projects: 
 
 https://github.com/Appekip/japanGoogleColabProjects
+
+https://github.com/Appekip/mediaPipeMachineLearning
 
 Python: 
 
