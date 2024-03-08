@@ -42,4 +42,35 @@
   </a>
 </div>
 
+Software Engineer with a Bachelor of Science from Metropolia University
+
+I specialize in Web- and Java Development
+
+I also studied Machine and Deep Learning abroad at Tokyo National College of Technology.
+
+Examples of my work can be found here:
+
+Web applications:
+
+Smart Mirror
+https://github.com/Appekip/Smart-Mirror
+
+Valorant Wiki
+https://github.com/Appekip/ValorantWikiReact
+
+Java: 
+
+Device Patrol
+https://github.com/Appekip/Device_Patrol
+
+Machine Learning projects: 
+
+https://github.com/Appekip/japanGoogleColabProjects
+
+Python: 
+
+Genshin Simulator
+https://github.com/Appekip/Genshin
+
+
 ###
