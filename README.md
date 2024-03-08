@@ -1,6 +1,11 @@
-<h2 align="left">Hi 👋! I'm Arttu, a Software Engineer from Finland</h2>
+<h2 align="left">Hi 👋 I'm Arttu, a Software Engineer from Finland</h2>
 
 <img align="right" height="150" src="https://media.tenor.com/x8WtNAH1UVgAAAAM/astolfo.gif"  />
+
+<div align="left">
+  <h3>Tech Stack</h3>
+</div>
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
   <img width="12" />
@@ -24,7 +29,9 @@
 </div>
 
 
-
+<div align="left">
+  <h3>Socials</h3>
+</div>
 
 <div align="left">
   <a href="https://www.linkedin.com/in/arttuperamaki/" target="_blank">
@@ -39,7 +46,7 @@
 
 
 <div align="left">
-
+<h3>Who am I</h3>
 
 Software Engineer with a Bachelor of Science from Metropolia University
 
