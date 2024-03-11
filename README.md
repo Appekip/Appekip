@@ -54,26 +54,23 @@ Studied Machine and Deep Learning abroad at [Tokyo National College of Technolog
 
 I specialize in Front-End Web Development, I also work with Java and Python
 
+Currently working on a [portfolio](https://github.com/Appekip/portfolio)
+
 Examples of my work can be found here:
 
 Web applications:
 
-Smart Mirror (React, TS)
-https://github.com/Appekip/Smart-Mirror
+[Smart Mirror (React, TS)](https://github.com/Appekip/Smart-Mirror)
 
-Valorant Wiki (React, JS)
-https://github.com/Appekip/ValorantWikiReact
+[Valorant Wiki (React, JS)](https://github.com/Appekip/ValorantWikiReact)
 
-Deliver Fee calc (React, TS)
-https://github.com/Appekip/Delivery-Fee-Calc
+[Deliver Fee calc (React, TS)](https://github.com/Appekip/Delivery-Fee-Calc)
 
 Java: 
 
-Device Patrol
-https://github.com/Appekip/Device_Patrol
+[Device Patrol](https://github.com/Appekip/Device_Patrol)
 
-Customer service Simulator
-https://github.com/Appekip/simulator
+[Customer service Simulator](https://github.com/Appekip/simulator)
 
 Machine Learning projects: 
 
@@ -83,8 +80,7 @@ https://github.com/Appekip/mediaPipeMachineLearning
 
 Python: 
 
-Genshin Simulator
-https://github.com/Appekip/Genshin
+[Genshin Simulator](https://github.com/Appekip/Genshin)
 </div>
 
 <div align="center">
