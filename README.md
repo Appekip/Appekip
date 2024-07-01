@@ -54,7 +54,7 @@ Studied Machine and Deep Learning abroad at [Tokyo National College of Technolog
 
 I specialize in Front-End Web Development, I also work with Java and Python
 
-Currently working on a [portfolio](https://github.com/Appekip/portfolio)
+Currently working at [CGI]((https://www.cgi.com/en))
 
 Examples of my work can be found here:
 
