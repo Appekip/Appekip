@@ -52,7 +52,7 @@ Software Engineer with a Bachelor of Science from [Metropolia University](https:
 
 Studied Machine and Deep Learning abroad at [Tokyo National College of Technology](https://www.tokyo-ct.ac.jp/en/)
 
-I specialize in Front-End Web Development, I also work with Java and Python
+I specialize in Back-end Development with Java. I also do Front-End stuff. 
 
 Currently working at [CGI](https://www.cgi.com/en) as a Software Engineer
 
