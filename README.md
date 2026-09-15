@@ -48,7 +48,7 @@
 <div align="left">
 <h3>Who am I</h3>
 
-Software Engineer with a Bachelor of Science from [Metropolia University](https://www.metropolia.fi/en)
+Software Engineer with a Bachelor of Engineering from [Metropolia University](https://www.metropolia.fi/en)
 
 Studied Machine and Deep Learning abroad at [Tokyo National College of Technology](https://www.tokyo-ct.ac.jp/en/)
 
